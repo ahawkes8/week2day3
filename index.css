@@ -1,0 +1,23 @@
+body {
+    background: #d2d2d2 url(https://nightsky.jpl.nasa.gov/images/news/HDP_896.jpg) top right repeat;
+  }
+  .box {
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+    background: #343434 url(bg-box.png) top center;
+  }
+  .nav {
+    padding: 10px;
+    text-align: center;
+  }
+  .nav li {
+    display: inline;
+    padding-right: 20px;
+    font-size: 25px;
+  }
+  .nav a {
+    color: #d2d2d2;
+  }
+  h1{text-align: center;color: #d2d2d2;font-size: 55px;}
+  h2{text-align: center;color: #d2d2d2;font-size: 20px;}
